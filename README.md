@@ -1,6 +1,6 @@
 # testing
-This served Testing project in the University. Now useless.
+This served Testing project in the University.
 
 Just an exercise.
-g658d 6256
-f2254 44m8
+g658d6256 d5m26350 6d4911m3
+f2263d942 34m866d4 408990d3
