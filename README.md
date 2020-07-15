@@ -7,4 +7,4 @@ f2263d942 34m866d4 408990d3
 
 https://drive.google.com/drive/folders/1x9_U5DHokz_dFPJL3r3VcgKsGanPx4l9D [d, e, 1]
 
-https://docs.google.com/presentation/d/1U4_MXH9yXY2JRu7neI04SMEFEv6KkP-lYCuh1izK6Ik/edit?usp=sharing
+https://drive.google.com/drive/folders/1x9_U5DHokz_dFPJL3r3VcgKsGanPx4l9?usp=sharing
